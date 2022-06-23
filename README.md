@@ -14,7 +14,8 @@
     - ICWS
   - https://github.com/Vremold/LinkSO
     - A weakly supervised approach to link Stack Overflow posts to programming language textbooks. Mainly rely on matching in 3 extracted features: keyphrase, semantics and code elements
+  - https://github.com/Vremold/DLS/
+    - A development library retrieval approach, mainly for js-based frontend development
     - ICSS 2022 best paper
-  - 
 
  
