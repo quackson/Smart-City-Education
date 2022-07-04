@@ -10,8 +10,8 @@
   - *https://github.com/delavet/SOworkspace
     - An API learning Service designed for inexperienced developers. Powered by StackOverflow, Wikipedia, Javadoc, etc
     - ICWS 2021
-  - *github.com/delavet
-
+  - *https://github.com/delavet/SOworkspace
+    - An API learning Service designed for inexperienced developers. Powered by StackOverflow, Wikipedia, Javadoc, etc
     - ICWS 2021
   - *https://github.com/Vremold/LinkSO
     - A weakly supervised approach to link Stack Overflow posts to programming language textbooks. Mainly rely on matching in 3 extracted features: keyphrase, semantics and code elements
