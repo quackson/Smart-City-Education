@@ -4,6 +4,7 @@
 
   - curation list : repositories of reserach for software engineering learners, most work based on GitHub and Stack Overflow
   - repositories marked with * established by our lab
+  - This repository mainly stores research for beginners of software development, mainly including papers, codes and open source systems, including some data used in the analysis process. The project owner is the researcher, including undergraduate and graduate students.
 
 - ## repositories list
 
@@ -21,5 +22,8 @@
     - Chinese question answering community retrieval system
   - *https://github.com/quackson/cn_blogs-analysis
     - This repo is a study of cnblog, a Chinese technology community. It uses graph method to model and classify Chinese Blogs.
+  - *https://github.com/quackson/springbootApiUsageCase
+    - This study is mainly a case search study for springboot beginners, and the data is from GitHub open source data. The algorithms used are mainly graph kernel and spectral clustering.
+    - NCSC 2021
 
  
