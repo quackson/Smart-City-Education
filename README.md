@@ -16,6 +16,7 @@
   - *https://github.com/Vremold/DLS/
     - A development library retrieval approach, mainly for js-based frontend development
     - ICSS 2022 best paper
+    - NCSC 2022 compitition 
   - *https://github.com/Git-JK/A-Retireval-System-Based-on-the-Functional-Semantics-of-Stack-Overflow-Posts
     - This repo is mainly the code implementation of the undergraduate thesis of JK. The main idea is to use verb phrases and phrase patterns to extract the explicit functional semantics contained in the title of the question and answer post, and use Bert based bertlets model to extract the implicit functional semantics contained in the question description and answer of the question and answer post, And match the explicit and implicit functional semantics of the question to be queried, so as to recommend stack overflow Q & A posts.
   - *https://github.com/Harris-pku/graduation_design
