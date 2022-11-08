@@ -23,6 +23,8 @@
       - https://github.com/quackson/Semantical-Library-Retrieval frontend project.
   - *https://github.com/Git-JK/A-Retireval-System-Based-on-the-Functional-Semantics-of-Stack-Overflow-Posts
     - This repo is mainly the code implementation of the undergraduate thesis of JK. The main idea is to use verb phrases and phrase patterns to extract the explicit functional semantics contained in the title of the question and answer post, and use Bert based bertlets model to extract the implicit functional semantics contained in the question description and answer of the question and answer post, And match the explicit and implicit functional semantics of the question to be queried, so as to recommend stack overflow Q & A posts.
+  - *https://github.com/bling666/Stack-Overflow-community-analysis
+    - This repo designs and implements a learning resource recommendation system. It uses the community detection algorithm to identify similar user groups with reference value, analyzes the evolution of topic keywords in each community with the help of topic modeling, provides mature learning paths for users' learning, and recommends corresponding learning resources.
   - *https://github.com/Harris-pku/graduation_design
     - Chinese question answering community retrieval system
   - *https://github.com/quackson/cn_blogs-analysis
