@@ -1,7 +1,7 @@
 # awesome software engineering beginners
 
 - ## Introduce
-
+  主要涉及本组研究，智慧学习及学习者辅助研究为主。围绕GitHub，Stack Overflow等开源社区进行用户、代码、仓库、依赖库等问题进行数据挖掘和分析，尚未发表的工作不在列。
   - curation list : repositories of reserach for software engineering learners, most work based on GitHub and Stack Overflow
   - repositories marked with * established by our lab
   - This repository mainly stores research for beginners of software development, mainly including papers, codes and open source systems, including some data used in the analysis process. The project owner is the researcher, including undergraduate and graduate students.
