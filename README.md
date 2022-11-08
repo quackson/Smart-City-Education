@@ -27,7 +27,7 @@
     - Chinese question answering community retrieval system
   - *https://github.com/quackson/cn_blogs-analysis
     - This repo is a study of cnblog, a Chinese technology community. It uses graph method to model and classify Chinese Blogs.
-  - *https://github.com/quackson/springbootApiUsageCase
+  - *https://github.com/quackson/springbootAPIRecommandation
     - This study is mainly a case search study for springboot beginners, and the data is from GitHub open source data. The algorithms used are mainly graph kernel and spectral clustering.
     - NCSC 2021
 
