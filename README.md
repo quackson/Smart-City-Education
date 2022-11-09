@@ -154,4 +154,3 @@ This repository stores research on smart city services and smart education servi
 3. Yuqi Zhou, Jiawei Wu, "A Personalized Service to Recommend GitHub Trending Repositories for Developers", won the first prize of the 2021 China Digital Service Conference Software Service Innovation Competition. (Instructor: Yanchun Sun)
 4. Hang Yin, "A Question-driven Java Code Retrieval Service based on Stack Overflow", Won the second prize of the 2018 China Computer Federation Service Computing Academic Conference Software Service Innovation Competition. (Instructor: Yanchun Sun)
 5. Lecong Zhang, Jiu Wen, "Location Semantics-Oriented Smart Map Service", Won the third prize of the 2018 China Computer Federation Service Computing Academic Conference Software Service Innovation Competition. (Instructor: Yanchun Sun)
-
